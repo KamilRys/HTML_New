@@ -1,0 +1,56 @@
+body{
+background-color:#FBEFEF;
+margin: 0px;
+padding: 0px;
+}
+.baner{
+	background-color: maroon;
+	width: 100%;
+	height: 80px;
+}
+.zawartosc{
+	margin-left: 500px;
+}
+.zawartosc li{
+	margin-left: 200px;
+}
+h1,h2{
+	color: red;
+}
+h2{
+	border-bottom: 15px;
+}
+li,ul{
+	font-family: Arial;
+	line-height: 40px;
+}
+img{
+	float: left;
+	margin-left: -90px;
+}
+.menu{
+position: absolute;
+top: 90px;
+left: 10px;
+background-color: maroon;
+border: 5px solid pink;
+}
+.menu li{
+margin: 0px;
+padding-right: 15px;
+color: #e34234;
+}
+.menu a{
+	color: pink;
+	display: block;
+	padding-right: 20px;
+	padding-left: 10px;
+}
+.menu a:hover{
+	color: red;
+}
+hr{
+	color: red;
+	height: 3px;
+	border: 0px;
+}
